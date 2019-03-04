@@ -1,7 +1,13 @@
 hello, its neeraj,
 currently studing in altcampus
 learning git command
+
+My name is Shreyansh.
+
+hello, its neeraj.
+
 hello I am Naman
+
 Hi, it's Venkat here.
-Somaditya Basak, M29
-Ex-Java developer
+
+Hello, this is Somaditya.

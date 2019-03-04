@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello, its neeraj
+=======
+Somaditya Basak, M29
+Ex-Java developer
+>>>>>>> 5910b750280b1dda5612dd098b202bbc649dd53c

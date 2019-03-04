@@ -1,4 +1,6 @@
-hello, its neeraj
+hello, its neeraj,
+currently studing in altcampus
+learning git command
 hello I am Naman
 Hi, it's Venkat here.
 Somaditya Basak, M29

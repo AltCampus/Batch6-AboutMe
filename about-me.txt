@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello, its neeraj
 =======
+=======
+Hi, it's Venkat here.
+>>>>>>> c75f10cf9c7c6f9389ac30015cb39f5f0627e712
 Somaditya Basak, M29
 Ex-Java developer
 >>>>>>> 5910b750280b1dda5612dd098b202bbc649dd53c
